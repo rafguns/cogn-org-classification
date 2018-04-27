@@ -1,0 +1,46 @@
+id	label	cluster	weight
+1	Mathematics	1	971.0
+2	Computer and information sciences	1	1793.0
+3	Physical sciences	1	375.0
+4	Chemical sciences	1	457.0
+5	Earth and related environmental sciences	1	1113.0
+6	Biological sciences	1	1319.0
+7	Other natural sciences	1	127.0
+8	Civil engineering	2	315.0
+9	Electrical engineering	2	321.0
+10	Mechanical engineering	2	89.0
+11	Chemical engineering	2	124.0
+12	Materials engineering	2	116.0
+13	Medical engineering	2	124.0
+14	Environmental engineering	2	378.0
+15	Environmental biotechnology	2	97.0
+16	Industrial biotechnology	2	38.0
+17	Nano-technology	2	3.0
+18	Other engineering and technologies	2	454.0
+19	Basic medicine	3	3039.0
+20	Clinical medicine	3	6051.0
+21	Health sciences	3	5135.0
+22	Health biotechnology	3	11.0
+23	Other medical sciences	3	882.0
+24	Agriculture, forestry, and fisheries	4	209.0
+25	Animal and dairy science	4	82.0
+26	Veterinary science	4	73.0
+27	Agricultural biotechnology	4	82.0
+28	Other agricultural sciences	4	550.0
+29	Psychology	5	6038.0
+30	Economics and business	5	6658.0
+31	Educational sciences	5	2375.0
+32	Sociology	5	3964.0
+33	Law	5	11275.0
+34	Political science	5	2678.0
+35	Social and economic geography	5	1888.0
+36	Media and communications	5	1830.0
+37	Other social sciences	5	675.0
+38	History	6	3692.0
+39	Archaeology	6	827.0
+40	Languages and linguistics	6	4091.0
+41	Literature	6	3919.0
+42	Philosophy and ethics	6	2894.0
+43	Religion	6	3064.0
+44	Arts	6	1913.0
+45	Other humanities	6	380.0

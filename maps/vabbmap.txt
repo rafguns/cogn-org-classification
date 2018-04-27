@@ -1,0 +1,19 @@
+id	label	cluster	weight
+1	Social health sciences	1	11135.0
+2	Psychology	1	8350.0
+3	Economics & business	1	11380.0
+4	Educational sciences	1	4042.0
+5	Sociology	1	4613.0
+6	Law	1	11326.0
+7	Criminology	1	2500.0
+8	Political sciences	1	3711.0
+9	Communication studies	1	2771.0
+10	Social sciences general	1	10228.0
+11	History	2	3479.0
+12	Archaeology	2	1051.0
+13	Linguistics	2	6919.0
+14	Literature	2	3137.0
+15	Philosophy	2	4935.0
+16	Theology	2	2568.0
+17	History of arts	2	2512.0
+18	Humanities general	2	4922.0
