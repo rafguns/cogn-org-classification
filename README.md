@@ -14,7 +14,7 @@ The [Jupyter](https://jupyter.org/) notebook `Analysis.ipynb` shows how the data
 
 ## Maps
 
-Under `maps`, one can find the files to visualize the networks shown in the paper. For convenience, we provide here the links to directly open these maps in [VOSviewer](http://www.vosviewer.com):
+Under `maps`, one can find the files to visualize the networks shown in the paper. For convenience, we provide here the links to directly open these maps in [VOSviewer Online](https://app.vosviewer.com/):
 
-- [Map of VABB disciplines (organizational classification)](http://www.vosviewer.com/vosviewer.php?map=https://github.com/rafguns/cogn-org-classification/raw/master/maps/vabbmap.txt&network=https://github.com/rafguns/cogn-org-classification/raw/master/maps/vabbnet.txt&max_n_lines=50)
-- [Map of FOS fields (cognitive classification)](http://www.vosviewer.com/vosviewer.php?map=https://github.com/rafguns/cogn-org-classification/raw/master/maps/fosmap.txt&network=https://github.com/rafguns/cogn-org-classification/raw/master/maps/fosnet.txt&max_n_lines=100)
+- [Map of VABB disciplines (organizational classification)](https://app.vosviewer.com/?map=https://github.com/rafguns/cogn-org-classification/raw/master/maps/vabbmap.txt&network=https://github.com/rafguns/cogn-org-classification/raw/master/maps/vabbnet.txt&attraction=2&repulsion=1&max_n_links=50)
+- [Map of FOS fields (cognitive classification)](https://app.vosviewer.com/?map=https://github.com/rafguns/cogn-org-classification/raw/master/maps/fosmap.txt&network=https://github.com/rafguns/cogn-org-classification/raw/master/maps/fosnet.txt&attraction=2&repulsion=1&max_n_links=100)
